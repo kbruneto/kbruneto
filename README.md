@@ -26,7 +26,8 @@ Currently, I am looking for my first job in the development field, where I can a
 <a href="https://www.linkedin.com/in/kaique-roberto-bruneto-duarte-5b54ab23b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
 
 ## 📬 Contact
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> hizztxt@gmail.com
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> +55 11 95387-4693
+<a mailto="hizztxt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
+
+<a src="https://api.whatsapp.com/send/?phone=11953874693&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> +55 11 95387-4693
 
 I'm excited to collaborate on challenging projects, continuously learn, and contribute to the success of innovative teams and companies. Let's build the future of technology together! 🚀
