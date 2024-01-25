@@ -9,7 +9,7 @@
 🇧🇷 - Apaixonado por tecnologia, sou um desenvolvedor full-stack. Estou em busca de oportunidades para iniciar minha carreira no mundo da tecnologia.
 
 ## 🚀 Skills
-- 💡 Dev: HTML, CSS, JavaScript
+- 💡 Technologies: HTML5, CSS3, JavaScript
 - 🌐 Frameworks: React, Node.js
 - 🛠️ Databases: PostgreSQL, MongoDB
 - 🔄 Version Control: Git
