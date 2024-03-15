@@ -9,10 +9,10 @@
 🇧🇷 - Apaixonado por tecnologia, sou um desenvolvedor full-stack. Estou em busca de oportunidades para iniciar minha carreira no mundo da tecnologia.
 
 ## 🚀 Skills
-- 💡 Technologies: HTML5, CSS3, JavaScript
-- 🌐 Frameworks: React, Node.js
-- 🛠️ Databases: PostgreSQL, MongoDB
-- 🔄 Version Control: Git
+• 💡 Technologies: JavaScript, TypeScript, React, Node.js, PostgreSQL, Git, GitHub, AWS
+• 📷 Remote Communication: Zoom, Teams, Meet, Discord
+• 📊 Collaboration: MIRO, ConceptBoard, Mural
+• ☑️ Project Management: Jira, Scrum, Kanban
 
 ![imagem_2024-01-24_115430158](https://github.com/kbruneto/kbruneto/assets/157076147/fc944226-ca1f-4664-b2f0-16c81540ba9b)
 
