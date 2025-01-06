@@ -9,8 +9,6 @@
 - 📊 **Process optimization and automation:** IA, Machine Learning, LLM, Selenium, Airtable
 - ☑️ **Project Management:** Jira, Scrum, Kanban, Miro
 
-![imagem_2024-01-24_115430158](https://github.com/kbruneto/kbruneto/assets/157076147/fc944226-ca1f-4664-b2f0-16c81540ba9b)
-
 ## 📚 Education
 - Currently studying Software Engineering at Estácio University
   - 📅 Started in January 2024
