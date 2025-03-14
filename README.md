@@ -1,27 +1,39 @@
-# 👋 Hello, I'm Kaique!
+# Hi, I'm Kaique!
 
 ## About Me
-- 🎂 **Age:** 20 years
-- 💻 **Profession:** Front End Developer
+- **Age:** 20 years old
+- **Profession:** Software Developer
 
-## 🚀 Skills
-- 💡 **Technologies and Frameworks:** JavaScript, TypeScript, ReactJS, Node.js, PostgreSQL, Git, GitHub, HTML5, CSS3
-- 📊 **Process optimization and automation:** IA, Machine Learning, LLM, Selenium, Airtable
-- ☑️ **Project Management:** Jira, Scrum, Kanban, Miro
+---
 
-## 📚 Education
-- Currently studying Software Engineering at Estácio University
-  - 📅 Started in January 2024
-  - 🎓 Expected graduation in 2027
+## My Skills
+### **Development**
+- **Languages & Technologies:** JavaScript (ES6/ES7), TypeScript, ReactJS, Next.js, Node.js  
+- **Front-End:** HTML5, CSS3, Tailwind  
+- **Cloud & Databases:** PostgreSQL, Sequelize, Prisma, AWS (EC2, S3, etc.), Azure, G-Cloud, Multicloud, Terraform  
+- **Version Control:** Git, GitHub  
+
+### **Automation & Processes**
+- **Tools:** Airtable, Selenium, Google Sheets (formulas, macros), AI, Machine Learning, LLMs  
+- **ERP & Systems:** SAP  
+- **Agile & Project Management:** Jira, Scrum, Kanban, Miro  
+
+---
+
+## Education
+- **Software Engineering - Estácio de Sá University**  
+  - Started: Jan/2024 | **Expected graduation:** 2027
+
+---
 
 ## 🌐 Social Media
-<a href="https://www.linkedin.com/in/kaique-roberto-bruneto-duarte-5b54ab23b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquebruneto/)  
 
 ## 📬 Contact
-<a href="mailto:hizztxt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hizztxt@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=11953874693&text&type=phone_number&app_absent=0)  
 
-<a href="https://api.whatsapp.com/send/?phone=11953874693&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+---
 
-🇺🇸 - I'm excited to collaborate on challenging projects, continuously learn, and contribute to the success of innovative teams and companies! 🚀
-
-🇧🇷 - Estou animado para colaborar em projetos desafiadores, aprender continuamente e contribuir para o sucesso de equipes e empresas inovadoras! 🚀
+🇺🇸 - I'm always open to new challenges, learning opportunities, and contributing to innovative teams and projects! 🚀  
+🇧🇷 - Sempre aberto a novos desafios, oportunidades de aprendizado e colaboração em projetos inovadores! 🚀  
