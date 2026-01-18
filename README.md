@@ -14,8 +14,8 @@
 - **Version Control:** Git, GitHub  
 
 ### **Automation & Processes**
-- **Tools:** Airtable, Selenium, Google Sheets (formulas, macros), AI, Machine Learning, LLMs  
-- **ERP & Systems:** SAP  
+- **Tools:** Selenium, Google Sheets (formulas, macros), AI, Machine Learning, LLMs  
+- **ERP & Systems:** SAP, Airtable
 - **Agile & Project Management:** Jira, Scrum, Kanban, Miro  
 
 ---
