@@ -1,7 +1,7 @@
 # Hi, I'm Kaique!
 
 ## About Me
-- **Age:** 20 years old
+- **Age:** 21 years old
 - **Profession:** Software Developer
 
 ---
@@ -9,7 +9,7 @@
 ## My Skills
 ### **Development**
 - **Languages & Technologies:** JavaScript (ES6/ES7), TypeScript, ReactJS, Next.js, Node.js  
-- **Front-End:** HTML5, CSS3, Tailwind  
+- **Front-End:** HTML5, CSS3, Tailwind, Svelte
 - **Cloud & Databases:** PostgreSQL, Sequelize, Prisma, AWS (EC2, S3, etc.), Azure, G-Cloud, Multicloud, Terraform  
 - **Version Control:** Git, GitHub  
 
